@@ -1,3 +1,3 @@
 # simonGameChallenge
 Challenge from bootcamp.
-Link:https://3dlfive.github.io/simonGameChallenge/
+Link:https://3dlfive.github.io/simonGameChallenge/index.html
